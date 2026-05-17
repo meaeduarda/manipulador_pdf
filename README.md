@@ -1,4 +1,4 @@
-# 📄 Manipulador de PDF
+# Manipulador de PDF
 
 Aplicação desktop desenvolvida em Python para manipulação avançada de arquivos PDF, criada durante meu estágio no CREMEPE em conjunto com minha equipe de desenvolvimento.
 
@@ -6,31 +6,31 @@ O projeto surgiu da necessidade de facilitar o fluxo de trabalho de colaboradore
 
 ---
 
-## 🚀 Funcionalidades
+## Funcionalidades
 
-### 📑 Gerenciamento de páginas
+### Gerenciamento de páginas
 - Inserção de páginas de outros PDFs
 - Remoção de páginas
 - Remoção de intervalos de páginas
 - Reordenação de páginas
 - Extração de páginas para novos arquivos
 
-### 🖍️ Manipulação de conteúdo
+### Manipulação de conteúdo
 - Seleção de texto
 - Destaque de trechos
 - Sistema de marcações personalizadas
 - Configuração de cores e opacidade
 - Persistência das marcações em JSON
 
-### 🔢 Recursos adicionais
+### Recursos adicionais
 - Numeração automática de páginas
 - Navegação por miniaturas
 - Modo escuro/claro
-- Interface intuitiva em desktop
+- Interface desktop em PyQt5
 
 ---
 
-## 🛠️ Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 - Python
 - PyQt5
@@ -41,13 +41,13 @@ O projeto surgiu da necessidade de facilitar o fluxo de trabalho de colaboradore
 
 ---
 
-## 📷 Interface
+## Interface
 
 O sistema possui interface gráfica desktop desenvolvida com PyQt5, focada em produtividade e facilidade de uso para operações com PDFs.
 
 ---
 
-## 👩‍💻 Minha contribuição
+## Minha contribuição
 
 Participei ativamente do desenvolvimento da aplicação, contribuindo principalmente em:
 
@@ -62,7 +62,7 @@ Projeto desenvolvido em equipe sob supervisão do coordenador de estágio no CRE
 
 ---
 
-## ▶️ Como executar
+## Como executar
 
 ### Instalar dependências
 
